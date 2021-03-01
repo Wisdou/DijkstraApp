@@ -6,6 +6,6 @@ namespace DijkstraApp
 {
     class Point
     {
-
+        int value;
     }
 }
